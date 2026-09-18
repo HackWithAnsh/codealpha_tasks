@@ -4,10 +4,14 @@
 # Build folders
 bin/
 out/
+target/
 
-# VS Code settings
+# VS Code
 .vscode/
 
 # OS files
 .DS_Store
 Thumbs.db
+
+# Logs
+*.log
