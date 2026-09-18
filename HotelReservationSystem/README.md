@@ -108,3 +108,21 @@ Some natural next steps if you want to take this further:
 - Swap the CSV `FileStore` for JDBC + a real database — `HotelService`
   wouldn't need to change, only `FileStore`'s implementation
 - Add unit tests for `HotelService` (overlap detection is the trickiest part to get right)
+## 🛠️ Tech Stack
+
+- Java 17+
+- Object-Oriented Programming (OOP)
+- CSV File Storage
+- Java Collections
+- Exception Handling
+- Git & GitHub
+
+## 👨‍💻 Author
+
+**Ansh Maheshwari**
+
+GitHub: [@HackWithAnsh](https://github.com/HackWithAnsh)
+
+## 📄 License
+
+This project is created for educational and learning purposes.
